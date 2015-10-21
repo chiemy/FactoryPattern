@@ -37,9 +37,9 @@
 ###(5)与其他模式的混用
 
 如模板方法模式，单例模式，原型模式等。
-		
-<p><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"></p>
+<div>	
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
 <i class="fa fa-github fa-4x"></i>
-		
+</div>
 end
