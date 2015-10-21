@@ -38,5 +38,8 @@
 
 如模板方法模式，单例模式，原型模式等。
 		
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+<i class="fa fa-github fa-2x"></i>
 		
 end
