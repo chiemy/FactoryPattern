@@ -40,6 +40,6 @@
 		
 <p><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"></p>
 
-#<i class="fa fa-github fa-4x"></i>#
+<i class="fa fa-github fa-4x"></i>
 		
 end
